@@ -3,7 +3,7 @@
 
 ```
 
-$ npm install cars
+$ npm install electriccars
 
 ```
 

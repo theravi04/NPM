@@ -1,6 +1,6 @@
 {
   "name": "electriccars",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "electric cars",
   "main": "index.cjs",
   "scripts": {
