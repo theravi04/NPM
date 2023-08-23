@@ -1,4 +1,4 @@
-# Elctric Cars
+# Electric Cars
 ## Install
 
 ```
